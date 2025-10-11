@@ -42,7 +42,7 @@ Expect new projects, optimized Minecraft plugins, and feature-rich updates in up
 <div align="center">
 
 <!-- GitHub stats (with private repos counted) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexTzamalis&show_icons=true&theme=tokyonight&hide_border=true&count)  <!-- private=true -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexTzamalis&show_icons=true&theme=tokyonight&hide_border=true)  <!-- private=true -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTzamalis&layout=compact&theme=tokyonight&hide_border=true&count)  
 
 </div>
