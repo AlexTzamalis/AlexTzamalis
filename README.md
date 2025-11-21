@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### ABOUT ME
 - 🎓 Studying **Computer Science** at the **University of East London** via Metropolitan College, Greece  
 - 🌍 Based in **Greece**  
 - 🖥️ **Owner, Developer & Configurator** of [**Minetube.cc**](https://minetube.cc)  
@@ -19,20 +19,20 @@
 
 ---
 
-### Tech Stack
+### TEACH STACK
 - **Java** (Gradle, Paper/Purpur plugin development)  
 - **Python**  
 - **Web**: HTML / CSS / JavaScript  
 
 ---
 
-### Current Work
+### CURRENT WORK
 A lot has been happening **behind closed doors** with plugin development and the **Minetube.cc** network.  
 Expect new projects, optimized Minecraft plugins, and feature-rich updates in upcoming releases.  
 
 ---
 
-### Connect With Me
+### CONTACT ME
 - 🌐 Website: [Minetube.cc](https://minetube.cc)  
 - 💬 Discord: [Join our community](https://discord.gg/https://discord.gg/2cP3ysWG) 
 - 📧 Email: **alextzamalis16@gmail.com**  
