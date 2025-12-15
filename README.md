@@ -21,8 +21,7 @@
 
 ### TEACH STACK
 - **Java** (Gradle, Paper/Purpur plugin development)  
-- **Python**  
-- **Web**: HTML / CSS / JavaScript  
+- **Web**: HTML / CSS / JavaScript & PHP
 
 ---
 
