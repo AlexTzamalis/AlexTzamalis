@@ -27,7 +27,7 @@
 
 ### CURRENT WORK
 A lot has been happening **behind closed doors** with plugin development and the **Minetube.cc** network.  
-Expect new projects, optimized Minecraft plugins, and feature-rich updates in upcoming releases.  
+Expect new projects, optimized plugins, and feature-rich updates in upcoming releases.  
 
 ---
 
