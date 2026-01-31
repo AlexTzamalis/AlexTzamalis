@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Alex (Also known as VaC3Tzam)
+# 👋 Hey, I’m Alex
 
 <div align="center">
 
