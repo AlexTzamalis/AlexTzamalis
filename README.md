@@ -55,8 +55,14 @@ Expect new projects, optimized plugins, and feature-rich updates in upcoming rel
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexTzamalis&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTzamalis&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=AlexTzamalis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexTzamalis&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
 </div>
