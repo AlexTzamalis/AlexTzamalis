@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Alex
 
-<div align="center">
+<div> <!--align="center" -->
 
 ![Owner](https://img.shields.io/badge/Owner-Minetube.cc-orange)
 ![Location](https://img.shields.io/badge/Location-Greece-blue)
