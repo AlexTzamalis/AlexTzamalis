@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Alex
 
-<div> <!--align="center" -->
+<div align="center">
 
 ![Owner](https://img.shields.io/badge/Owner-Minetube.cc-orange)
 ![Location](https://img.shields.io/badge/Location-Greece-blue)
@@ -19,16 +19,24 @@
 ---
 
 **Languages & Frameworks**
+
 <p align="left">
-  [![Languages](https://skillicons.dev/icons?i=java,python,c,cs,cpp,mysql)](https://skillicons.dev)
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,c,cs,cpp,js,php,html,css&perline=6" />
+</a>
 </p>
 
+  
+
+
 **Tools & Specialized**
+
 <p align="left">
-  [![Tools](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
-  <img src="https://img.shields.io/badge/LWJGL-%2355B331.svg?style=for-the-badge&logo=lwjgl&logoColor=white" alt="LWJGL" />
-  <img src="https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/Paper/Purpur-D32F2F.svg?style=for-the-badge&logo=minecraft&logoColor=white" alt="PaperMC" />
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gradle,maven,git,unity,dotnet,idea,vscode,windows&perline=6" />
+</a>
 </p>
 
 ---
