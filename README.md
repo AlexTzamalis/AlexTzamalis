@@ -25,14 +25,16 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 **Tools & Specialized**
 <p align="left">
+  <img src="https://img.shields.io/badge/LWJGL-%2355B331.svg?style=for-the-badge&logo=lwjgl&logoColor=white" alt="LWJGL" />
   <img src="https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Paper/Purpur-D32F2F.svg?style=for-the-badge&logo=minecraft&logoColor=white" alt="PaperMC" />
 </p>
 
 ---
